@@ -9,8 +9,17 @@ Desde mi adolescencia soy un apasionado por la tecnología, sus avances y los vi
 - 🔭 Actualmente estoy trabajando en:
 
 - 🌱 Actualmente estoy aprendiendo:
+  1- Modificando y mejorando tanto el Proyecto individual com el Proyecto Final de SoyHenry. Una vez aprobados y ahora con más tiempo la intención es mojorarlos esteticamente, analizar la mejora de funcionalidad y finalmente el Deploy.
+  2- Data Analytics:
+                    -Modulo 1: Excel Avanzado Aprobado.
+                    -Modulo 2: Tableu (cursar)
+                    -Modulo 3: Power BI (cursar)
+                    -Modulo 4: Data Analytics (cursar)
+                
 
 - 📫 Cómo contactarme:
+                     - juan_zubiri@hotmail.com
+                     - juanvzubiri77@gmail.com
 
 - 😄 Conocimientos adquiridos en SoyHenry:
                   - JavaScript
