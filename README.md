@@ -12,8 +12,31 @@ Desde mi adolescencia soy un apasionado por la tecnología, sus avaces y los vid
 
 - 📫 Cómo contactarme:
 
-- 😄 Tecnologías que uso:
-
-- ⚡ Dato curioso: ...
+- 😄 Conocimientos adquiridos en SoyHenry:
+                  - JavaScript
+                  - Reactjs
+                  - Node.js
+                  - Express.js
+                  - Sequelize.js
+                  - PostgreSQL
+                  - Hojas de estilos en cascada (CSS)
+                  - Axios
+                  - React-router-dom
+                  - Redux.js
+                  - HTML
+                  - GitHub
+- 😄 Conocimientos adquiridos en Instituto Superior Santo Domingo (ISSD) Tecnicatura en Desarrollo de Software:
+                  - Java
+                  - Java para Android
+                  - C# .net
+                  - SQL server
+                  - Análisis Funcional
+                  - Scrum
+                  - Linux
+                  - Inglés Técnico
+                  
+                  
+- ⚡ Dato curioso:
+Si bien no cuento con experiencia laboral en el sector, cuento con más de tres años de practica continuas, adquiriendo constantemente nuevos conocimientos y experiencias desarrollados todo tipo de aplicaciones en los diferentes lenguajes detalladados anteriormente. Si bien en su mayoría son proyectos pequeños a cada uno le he dedicado muchas horas de practica e investigación para poder lograr los resultados esperados. 
 -->
 
