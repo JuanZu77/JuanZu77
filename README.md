@@ -7,7 +7,7 @@ Desde mi adolescencia soy un apasionado por la tecnología, sus avances y los vi
 
 - 🔭 Actualmente estoy trabajando en:
 
-     *Modificando y mejorando tanto el Proyecto individual com el Proyecto Final de SoyHenry. Una vez aprobados y ahora con más tiempo la intención es mojorarlos esteticamente, analizar la mejora de funcionalidad y finalmente el Deploy.
+     *Modificando y mejorando tanto el Proyecto individual com el Proyecto Final de SoyHenry. El objetivo es mejorarlos esteticamente, analizar  mejoras de funcionalidad y finalmente el Deploy.
 
 - 🌱 Actualmente estoy aprendiendo:
   
