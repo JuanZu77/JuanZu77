@@ -13,10 +13,14 @@ Desde mi adolescencia soy un apasionado por la tecnología, sus avances y los vi
 - 🌱 Actualmente estoy aprendiendo:
   
         *Data Analytics:
+  
      -Modulo 1: Excel Avanzado Aprobado.
-      -Modulo 2: Tableu (cursar)
-       -Modulo 3: Power BI (cursar)
-        -Modulo 4: Data Analytics (cursar)
+  
+      -Modulo 2: Tableu (cursar).
+  
+       -Modulo 3: Power BI (cursar).
+  
+        -Modulo 4: Data Analytics (cursar).
                  
 - 📫 Cómo contactarme:
   
