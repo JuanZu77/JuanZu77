@@ -23,11 +23,11 @@ Desde mi adolescencia soy un apasionado por la tecnología, sus avances y los vi
                  
 - 📫 Cómo contactarme:
   
-     --> juan_zubiri@hotmail.com
+                     --> juan_zubiri@hotmail.com
   
-     --> juanvzubiri77@gmail.com
+                     --> juanvzubiri77@gmail.com
 
-     --> linkedin.com/in/juan-zubiri
+                     --> linkedin.com/in/juan-zubiri
 
 - 👨‍💻 Conocimientos adquiridos en SoyHenry:
  
