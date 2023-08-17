@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-¿Quén Soy?
+🙋‍♂️¿Quén Soy?🧑
+
 Soy Técnico en Administración de Empresas y programador Full Stack Web Developer. Actualmente terminando de cursar el segundo año de la tecnicatura en Desarrollo de Software.
 
 Desde mi adolescencia soy un apasionado por la tecnología, sus avances y los videos juegos. A fines del 2019  conocí y me sumergí en el mundo de la programación. Mis primeras prácticas fueron con Java, desarrollando App de escritorio y App móviles con Android Studio. Si bien las primeras experiencias fueron difíciles quede fascinado. Desde entonces no he parado un segundo. En cada uno de mís días hay un momento de investigacíon, de aprendizaje, pruebas o de creación.
