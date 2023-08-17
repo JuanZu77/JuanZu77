@@ -74,8 +74,8 @@ Desde mi adolescencia soy un apasionado por la tecnología, sus avances y los vi
                   - Inglés Técnico
                       
 - ⚡ Dato curioso:
-
-         *Si bien no cuento con experiencia laboral en el sector, poseo más de tres años de practica continuas, adquiriendo constantemente nuevos conocimientos y desarrollando todo tipo de aplicaciones en los diferentes lenguajes detalladados anteriormente. Si bien en su mayoría son proyectos pequeños, a cada uno le he dedicado muchas horas de práctica y de investigación para poder lograr los resultados esperados.
+  
+  *Si bien no cuento con experiencia laboral en el sector, poseo más de tres años de practica continuas, adquiriendo constantemente nuevos conocimientos y desarrollando todo tipo de aplicaciones en los diferentes lenguajes detalladados anteriormente. Si bien en su mayoría son proyectos pequeños, a cada uno le he dedicado muchas horas de práctica y de investigación para poder lograr los resultados esperados.
 
 
   
