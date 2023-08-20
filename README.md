@@ -17,57 +17,57 @@
 
 🌱 Actualmente estoy aprendiendo:
 
-                    Data Analytics:
+           Data Analytics:
 
-                                   Módulo 1: Excel Avanzado (Completado)                
-                                   Módulo 2: Tableau (En progreso)
-                                   Módulo 3: Power BI (En progreso)
-                                   Módulo 4: Data Analytics (En progreso)
+                          Módulo 1: Excel Avanzado (Completado)                
+                          Módulo 2: Tableau (En progreso)
+                          Módulo 3: Power BI (En progreso)
+                          Módulo 4: Data Analytics (En progreso)
 
 
 📫 Puedes contactarme a través de:
 
-                  📨 juan_zubiri@hotmail.com,               
-                  📨 juanvzubiri77@gmail.com              
-                  🔗 https://linkedin.com/in/juan-zubiri
+                        📨 juan_zubiri@hotmail.com,               
+                        📨 juanvzubiri77@gmail.com              
+                        🔗 https://linkedin.com/in/juan-zubiri
                   
 
 🚀 Conocimientos adquiridos en SoyHenry:
 
-                                       ● GitHub
-                                       ● JavaScrip
-                                       ● React.js
-                                       ● Redux.js
-                                       ● Node.js
-                                       ● Express.js
-                                       ● Sequelize.js
-                                       ● PostgreSQL
-                                       ● HTML / CSS / CSS-in-JS (CSS Modules / Styled Components / Less)
-                                       ● Responsive Web Design (Media Queries / Flexbox y CSS Grid )
-                                       ● APIs (Experiencia en integrar datos y servicios externos a través de diversas APIs)
+      ● GitHub
+      ● JavaScrip
+      ● React.js
+      ● Redux.js
+      ● Node.js
+      ● Express.js
+      ● Sequelize.js
+      ● PostgreSQL
+      ● HTML / CSS / CSS-in-JS (CSS Modules / Styled Components / Less)
+      ● Responsive Web Design (Media Queries / Flexbox y CSS Grid )
+      ● APIs (Experiencia en integrar datos y servicios externos a través de diversas APIs)
   
 
 🚀 Conocimientos adquiridos en Instituto Superior Santo Domingo (ISSD) - Tecnicatura en Desarrollo de Software:
 
-                                       ● Java
-                                       ● Java para Android
-                                       ● C# .net
-                                       ● SQL server
-                                       ● Linux
-                                       ● Inglés Técnico
-                                       ● HTML / CSS
-                                       ● Introducción a JavaScript
-                                       ● Scrum (Principios, Roles, Artefactos y Eventos)
-                                       ● UML (Casos de Uso, Diseño de Clases)
-                                       ● Análisis de Sistemas (Identificación de requisitos y uso de cuestionarios para comprender las necesidades del cliente).
+      ● Java
+      ● Java para Android
+      ● C# .net
+      ● SQL server
+      ● Linux
+      ● Inglés Técnico
+      ● HTML / CSS
+      ● Introducción a JavaScript
+      ● Scrum (Principios, Roles, Artefactos y Eventos)
+      ● UML (Casos de Uso, Diseño de Clases)
+      ● Análisis de Sistemas (Identificación de requisitos y uso de cuestionarios para comprender las necesidades del cliente).
 
 
 ⚡ Info a destacar:
 
-                  Aunque carezco de experiencia laboral en el sector, acumulo más de tres años de 
-                  práctica constante, adquiriendo conocimientos y desarrollando diversas aplicaciones 
-                  en los lenguajes mencionados. Cada proyecto, aunque pequeño, representa horas de 
-                  dedicación y esfuerzo en pos de obtener resultados satisfactorios.
+           Aunque carezco de experiencia laboral en el sector, acumulo más de tres años de 
+           práctica constante, adquiriendo conocimientos y desarrollando diversas aplicaciones 
+           en los lenguajes mencionados. Cada proyecto, aunque pequeño, representa horas de 
+           dedicación y esfuerzo en pos de obtener resultados satisfactorios.
 
 
 ¡Gracias por visitar mi perfil! 🌟
