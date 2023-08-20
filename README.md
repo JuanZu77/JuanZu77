@@ -17,12 +17,12 @@
 
 🌱 Actualmente estoy aprendiendo:
 
-           Data Analytics:
+         Data Analytics:
 
-                          Módulo 1: Excel Avanzado (Completado)                
-                          Módulo 2: Tableau (En progreso)
-                          Módulo 3: Power BI (En progreso)
-                          Módulo 4: Data Analytics (En progreso)
+                        Módulo 1: Excel Avanzado (Completado)                
+                        Módulo 2: Tableau (En progreso)
+                        Módulo 3: Power BI (En progreso)
+                        Módulo 4: Data Analytics (En progreso)
 
 
 📫 Puedes contactarme a través de:
