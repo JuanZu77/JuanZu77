@@ -1,7 +1,7 @@
 
 ¡Saludos! 👋
 
-Soy un Apasionado Desarrollador Full Stack y Técnico en Administración de Empresas.
+Soy un Apasionado Desarrollador Full Stack y Técnico en Administracién de Empresas.
 Desde mi adolescencia, la tecnología y los videojuegos han sido mis pasiones. En 2019, mi fascinación me llevó a sumergirme en el mundo de la programación. Comencé con Java, desarrollando aplicaciones de escritorio y móviles. Aunque enfrenté dificultades al principio, quedé fascinado y no he dejado de aprender desde entonces. Cada día incluye investigación, aprendizaje y creación.
 
 🔭 Actualmente estoy enfocado en:
@@ -83,6 +83,7 @@ Correo electrónico:
 
 
 ⚡ Info a destacar:
+
 Aunque carezco de experiencia laboral en el sector, acumulo más de tres años de práctica constante, adquiriendo conocimientos y desarrollando diversas aplicaciones en los lenguajes mencionados. Cada proyecto, aunque pequeño, representa horas de dedicación y esfuerzo en pos de obtener resultados satisfactorios.
 
 ¡Gracias por visitar mi perfil! 🌟
