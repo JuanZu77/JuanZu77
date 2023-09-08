@@ -1,13 +1,16 @@
 
-¡Saludos! 👋
+¡Hola! 👋
 
-           Soy un Apasionado Desarrollador Full Stack y Técnico en Administración de Empresas. 
-           Desde mi adolescencia, la tecnología y los videojuegos han sido mis pasiones. 
-           En 2019, mi fascinación me llevó a sumergirme en el mundo de la programación. 
-           Comencé con Java, desarrollando aplicaciones de escritorio y móviles. Aunque enfrenté 
-           dificultades al principio, quedé fascinado y no he dejado de aprender desde entonces. 
-           Cada día incluye investigación, aprendizaje y creación.
+        Soy Full-Stack Web Developer graduado en Agosto 2023,Técnico en Administración de Empresas
+        y actualmente estudiante de la Tecnicatura en Desarrollo de Software.
 
+        Mi enfoque se orienta hacia una mejora continua tanto en el ámbito profesional como en el personal. 
+        Encuentro mi motivación en los desafíos y, más allá de mis logros individuales, alimento el anhelo 
+        de aportar significativamente al éxito colectivo de los equipos y organizaciones con las que colaboro.
+        Mi aspiración es la de continuar evolucionando en mi camino como Desarrollador Full-Stack, en busca de 
+        oportunidades de crecimiento y aprendizaje constantes. 
+
+      
 🔭 Actualmente estoy enfocado en:
 
            Modificar y mejorar tanto el Proyecto Individual como el Proyecto Final de SoyHenry. 
@@ -15,7 +18,7 @@
            herramientas y bibliotecas, y finalmente llevar a cabo la implementación (deploy).
 
 
-🌱 Actualmente estoy aprendiendo:
+⚡️ Actualmente estoy aprendiendo:
 
          Data Analytics:
 
@@ -62,13 +65,13 @@
       ● Análisis de Sistemas (Identificación de requisitos y uso de cuestionarios para comprender las necesidades del cliente).
 
 
-⚡ Info a destacar:
+🔎 Búsqueda:
 
-           Aunque carezco de experiencia laboral en el sector, acumulo más de tres años de 
-           práctica constante, adquiriendo conocimientos y desarrollando diversas aplicaciones 
-           en los lenguajes mencionados. Cada proyecto, aunque pequeño, representa horas de 
-           dedicación y esfuerzo en pos de obtener resultados satisfactorios.
-
+           De nuevos desafíos y emocionado por la oportunidad de formar parte de una empresa en la que pueda aportar valor 
+           desde mis conocimientos y experiencias adquiridas como Desarrollador Full Stack. Mi objetivo es contribuir al éxito 
+           de un equipo dinámico, ya sea en el ámbito de las empresas de tecnología o cualquier otra industria que demande 
+           innovación y desarrollo tecnológico.
+          
 
 ¡Gracias por visitar mi perfil! 🌟
 
