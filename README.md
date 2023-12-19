@@ -13,9 +13,8 @@
       
 🔭 Actualmente estoy enfocado en:
 
-           Modificar y mejorar tanto el Proyecto Individual como el Proyecto Final de SoyHenry. 
-           Mi objetivo es realzar su estética,explorar mejoras funcionales, investigar nuevas 
-           herramientas y bibliotecas, y finalmente llevar a cabo la implementación (deploy).
+         Terminar la tecnicatura en Desarrollo de Software, adquirir nuevos conocimientos y experiencias
+         como Full Stack Developer.
 
 
 ⚡️ Actualmente estoy aprendiendo:
