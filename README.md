@@ -1,7 +1,7 @@
 
 ¡Hola! 👋
 
-        Soy Full-Stack Web Developer graduado en Agosto 2023,Técnico en Administración de Empresas
+        Soy Data Analytics & Full-Stack Web Developer graduado en Agosto 2023,Técnico en Administración de Empresas
         y actualmente estudiante de la Tecnicatura en Desarrollo de Software.
 
         Mi enfoque se orienta hacia una mejora continua tanto en el ámbito profesional como en el personal. 
@@ -13,28 +13,21 @@
       
 🔭 Actualmente estoy enfocado en:
 
-         Terminar la tecnicatura en Desarrollo de Software, adquirir nuevos conocimientos y experiencias
+         Completar la tecnicatura en Desarrollo de Software, adquirir nuevos conocimientos y experiencias
          como Full Stack Developer.
-
-
-⚡️ Actualmente estoy aprendiendo:
-
-         Data Analytics:
-
-                        Módulo 1: Excel Avanzado (Completado)                
-                        Módulo 2: Tableau (En progreso)
-                        Módulo 3: Power BI (En progreso)
-                        Módulo 4: Data Analytics (En progreso)
-
 
 📫 Puedes contactarme a través de:
 
                         📨 juan_zubiri@hotmail.com,               
                         📨 juanvzubiri77@gmail.com              
                         🔗 https://linkedin.com/in/juan-zubiri
-                  
+                        
+🚀 Certificaciones de Coderhouse:                  
+      ● Excel Avanzado
+      ● Tableau
+      ● Data Analytics (SQLserver & Power BI)
 
-🚀 Conocimientos adquiridos en SoyHenry:
+🚀 Conocimientos adquiridos en Henry:
 
       ● GitHub
       ● JavaScrip
@@ -51,14 +44,14 @@
 
 🚀 Conocimientos adquiridos en Instituto Superior Santo Domingo (ISSD) - Tecnicatura en Desarrollo de Software:
 
-      ● Java
-      ● Java para Android
-      ● C# .net
-      ● SQL server
+      ● Programacion Orientada a Objetos (POO)
+      ● Java   
+      ● Java para Android & SQL Lite
+      ● C# .net (Programación en Capas / Aplicaciones de escritorio con Windows Form & WPF)
+      ● Base Datos Relacionales (SQL server)
       ● Linux
       ● Inglés Técnico
       ● HTML / CSS
-      ● Introducción a JavaScript
       ● Scrum (Principios, Roles, Artefactos y Eventos)
       ● UML (Casos de Uso, Diseño de Clases)
       ● Análisis de Sistemas (Identificación de requisitos y uso de cuestionarios para comprender las necesidades del cliente).
