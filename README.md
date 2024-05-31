@@ -18,7 +18,7 @@
 
 📫 Puedes contactarme a través de:
 
-                        📨 juan_zubiri@hotmail.com,               
+                        📨 juanzubiri.workspace@gmail.com,               
                         📨 juanvzubiri77@gmail.com              
                         🔗 https://linkedin.com/in/juan-zubiri
                         
