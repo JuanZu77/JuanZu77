@@ -1,8 +1,8 @@
 
 ¡Hola! 👋
 
-        Soy Data Analytics & Full-Stack Web Developer graduado en Agosto 2023,Técnico en Administración de Empresas
-        y actualmente estudiante de la Tecnicatura en Desarrollo de Software.
+        Soy Data Analytics & Full-Stack Web Developer. Técnico en Administración de Empresas
+        y actualmente estudiante de la Tecnicatura Universitaria en Tecnologías de la Información.
 
         Mi enfoque se orienta hacia una mejora continua tanto en el ámbito profesional como en el personal. 
         Encuentro mi motivación en los desafíos y, más allá de mis logros individuales, alimento el anhelo 
@@ -13,7 +13,7 @@
       
 🔭 Actualmente estoy enfocado en:
 
-         Completar la tecnicatura en Desarrollo de Software, adquirir nuevos conocimientos y experiencias
+         Completar la Tecnicatura Universitaria en Tecnologías de la Información, adquirir nuevos conocimientos y experiencias
          como Full Stack Developer.
 
 📫 Puedes contactarme a través de:
@@ -25,36 +25,40 @@
 🚀 Certificaciones de Coderhouse:                  
       ● Excel Avanzado
       ● Tableau
-      ● Data Analytics (SQLserver & Power BI)
+      ● Data Analytics (Excel, SQLserver & Power BI)
 
-🚀 Conocimientos adquiridos en Henry:
-
+🚀 Conocimientos adquiridos como Dasarrollador Full Stack:
       ● GitHub
-      ● JavaScrip
-      ● React.js
-      ● Redux.js
+      ● Angular & Angular Material
+      ● Java
+      ● Spring Boot
+      ● Hibernate 
       ● Node.js
       ● Express.js
       ● Sequelize.js
       ● PostgreSQL
       ● HTML / CSS / CSS-in-JS (CSS Modules / Styled Components / Less)
+      ● JavaScrip & TypeScript
       ● Responsive Web Design (Media Queries / Flexbox y CSS Grid )
       ● APIs (Experiencia en integrar datos y servicios externos a través de diversas APIs)
-  
+      ● Jira
+      ● Trello
 
-🚀 Conocimientos adquiridos en Instituto Superior Santo Domingo (ISSD) - Tecnicatura en Desarrollo de Software:
+🚀 Conocimientos adquiridos:
 
-      ● Programacion Orientada a Objetos (POO)
-      ● Java   
-      ● Java para Android & SQL Lite
-      ● C# .net (Programación en Capas / Aplicaciones de escritorio con Windows Form & WPF)
-      ● Base Datos Relacionales (SQL server)
-      ● Linux
-      ● Inglés Técnico
-      ● HTML / CSS
-      ● Scrum (Principios, Roles, Artefactos y Eventos)
-      ● UML (Casos de Uso, Diseño de Clases)
-      ● Análisis de Sistemas (Identificación de requisitos y uso de cuestionarios para comprender las necesidades del cliente).
+     ● Programación Orientada a Objetos (POO)
+     ● C# .NET (Programación en Capas / Aplicaciones de escritorio con Windows Form & WPF)
+     ● Diseño y administración de bases de datos relacionales: Dominios, Relaciones. Diseño, Normalización.
+                                                               Dependencias Funcionales. 
+                                                               Formas normales: 1º FN, 2º FN y 3º FN.
+     ● Linux: Comandos, distribuciones, ventajas del open source.
+     ● Inglés Técnico: Lectura y comprensión de documentación técnica en inglés.
+     ● Scrum: Principios, Roles, Artefactos y Eventos.
+     ● UML: Casos de Uso, Diseño de Clases).
+     ● Análisis de Sistemas: Identificación de requisitos y uso de cuestionarios para comprender las 
+       necesidades del cliente.
+     ● Diseño de Sistemas de Información.
+     ● Desarrollo de Sistemas de Información.
 
 
 🔎 Búsqueda:
