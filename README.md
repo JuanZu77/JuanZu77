@@ -1,7 +1,12 @@
 
 ¡Hola! 👋
 
-        Soy Data Analytics & Full-Stack Web Developer. Técnico en Administración de Empresas
+        💻 Desarrollador Full Stack con formación en Spring Boot, Angular, JavaScript, React, Redux, Node.js, Express.js, PostgreSQL, HTML5, CSS3, Git. 
+📊 Data Analytics con conocimientos sólidos en Excel, SQL server y Power BI.
+📈 Técnico Superior en Administración de Empresas.
+🎓 Estudiante de la Tecnicatura Universitaria en Sistema de la Información en la Universidad Nacional de Rosario.
+
+Mi enfoque se orienta hacia una mejora continua tanto en el ámbito profesional como en el personal. Encuentro mi motivación en los desafíos y, más allá de mis logros individuales, alimento el anhelo de aportar significativamente al éxito colectivo de los equipos y organizaciones con las que colaboro. Soy Data Analytics & Full-Stack Web Developer. Técnico en Administración de Empresas
         y actualmente estudiante de la Tecnicatura Universitaria en Tecnologías de la Información.
 
         Mi enfoque se orienta hacia una mejora continua tanto en el ámbito profesional como en el personal. 
