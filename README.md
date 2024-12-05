@@ -14,8 +14,8 @@ organizaciones con las que colaboro.
       
 🔭 Actualmente estoy enfocado en:
 
-         Completar la Tecnicatura Universitaria en Tecnologías de la Información, adquirir nuevos conocimientos y experiencias
-         como Full Stack Developer.
+         Completar la Tecnicatura Universitaria en Tecnologías de la Información, adquirir nuevos conocimientos y 
+         experiencias como Full Stack Developer.
 
 📫 Puedes contactarme a través de:
                         📨 juanzubiri.workspace@gmail.com,               
@@ -84,7 +84,8 @@ organizaciones con las que colaboro.
      
      ● UML: Casos de Uso, Diseño de Clases).
      
-     ● Análisis de Sistemas: Identificación de requisitos y uso de cuestionarios para comprender las necesidades del cliente.
+     ● Análisis de Sistemas: Identificación de requisitos y uso de cuestionarios para comprender las 
+       necesidades del cliente.
      
      ● Diseño de Sistemas de Información.
      
