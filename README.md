@@ -95,10 +95,10 @@ organizaciones con las que colaboro.
 
 🔎 Búsqueda:
 
-           De nuevos desafíos y emocionado por la oportunidad de formar parte de una empresa en la que pueda aportar valor desde 
-           mis conocimientos y experiencias adquiridas como Desarrollador Full Stack. Mi objetivo es contribuir al éxito de un 
-           equipo dinámico, ya sea en el ámbito de las empresas de tecnología o cualquier otra industria que demande innovación y 
-           desarrollo tecnológico.
+           De nuevos desafíos y emocionado por la oportunidad de formar parte de una empresa en la que pueda aportar 
+           valor desde mis conocimientos y experiencias adquiridas como Desarrollador Full Stack. Mi objetivo es 
+           contribuir al éxito de un equipo dinámico, ya sea en el ámbito de las empresas de tecnología o cualquier 
+           otra industria que demande innovación y desarrollo tecnológico.
           
 ¡Gracias por visitar mi perfil! 🌟
 
