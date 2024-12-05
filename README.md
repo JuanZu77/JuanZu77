@@ -18,6 +18,7 @@ organizaciones con las que colaboro.
          experiencias como Full Stack Developer.
 
 📫 Puedes contactarme a través de:
+
                         📨 juanzubiri.workspace@gmail.com,               
                         📨 juanvzubiri77@gmail.com              
                         🔗 https://linkedin.com/in/juan-zubiri/
