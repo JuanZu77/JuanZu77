@@ -10,12 +10,11 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
 🤖 Actualmente enfocado en:
 
                            - Finalizar la Tecnicatura Universitaria en Tecnologías de la Información.
-                           
                            - Potenciar mis habilidades como Full Stack Developer.
 
 🛠 Tecnologías que utilizo:
 
-   🚀 Frontend:
+   👨‍💻 Frontend:
    
                - Angular
                - Angular Material
@@ -26,7 +25,7 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
                - CSS-in-JS (CSS Modules / Styled Components / Less)
                - Responsive Web Design (Media Queries, Flexbox, CSS Grid)
 
-   🚀 Backend:
+   👨‍💻 Backend:
    
                - Java
                - Spring Boot
@@ -35,7 +34,7 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
                - Express.js
                - Sequelize.js
 
-   🚀 Base de Datos:
+   👨‍💻 Base de Datos:
    
                     - PostgreSQL
                     - MySQL
