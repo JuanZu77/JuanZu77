@@ -3,15 +3,20 @@
 💻 Full Stack Java Developer | 🧠 Data Analytics | 📊 Técnico en Administración
 
 🚀 Sobre mí
-Me apasiona la tecnología, el desarrollo de software y el aprendizaje continuo. Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluciones tecnológicas eficientes y creativas.
+
+Me apasiona la tecnología, el desarrollo de software y el aprendizaje continuo. 
+Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluciones tecnológicas eficientes y creativas.
 
 🤖 Actualmente enfocado en:
+
                            - Finalizar la Tecnicatura Universitaria en Tecnologías de la Información.
+                           
                            - Potenciar mis habilidades como Full Stack Developer.
 
 🛠 Tecnologías que utilizo:
 
    🚀 Frontend:
+   
                - Angular
                - Angular Material
                - TypeScript
@@ -22,6 +27,7 @@ Me apasiona la tecnología, el desarrollo de software y el aprendizaje continuo.
                - Responsive Web Design (Media Queries, Flexbox, CSS Grid)
 
    🚀 Backend:
+   
                - Java
                - Spring Boot
                - Hibernate
@@ -30,25 +36,30 @@ Me apasiona la tecnología, el desarrollo de software y el aprendizaje continuo.
                - Sequelize.js
 
    🚀 Base de Datos:
+   
                     - PostgreSQL
                     - MySQL
                     - SQL Server (en contexto de Data Analytics)
 
 🛠️ Herramientas y extras:
+
                          - GitHub
-                         - Postman
-                         - Trello
-                         - Jira
+                         - Postman                      
+                         - Trello                 
+                         - Jira               
                          - APIs (integración de servicios externos)
                          - UML (Casos de uso, diseño de clases)
                          - Análisis y diseño de sistemas
                          - Linux (comandos, terminal)
 
 📫 Puedes contactarme a través de:
-                        📨 juanvzubiri77@gmail.com              
+
+                        📨 juanvzubiri77@gmail.com        
+                        
                         🔗 https://linkedin.com/in/juan-zubiri/
                         
 🔎 Búsqueda:
+
            De nuevos desafíos y emocionado por la oportunidad de formar parte de una empresa en la que pueda aportar 
            valor desde mis conocimientos y experiencias adquiridas como Desarrollador Full Stack. Mi objetivo es 
            contribuir al éxito de un equipo dinámico, ya sea en el ámbito de las empresas de tecnología o cualquier 
