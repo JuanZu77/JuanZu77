@@ -30,6 +30,7 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
                - Java
                - Spring Boot
                - Hibernate
+               - Docker
                - Node.js
                - Express.js
                - Sequelize.js
