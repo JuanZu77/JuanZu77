@@ -7,14 +7,14 @@
 Me apasiona la tecnología, el desarrollo de software y el aprendizaje continuo. 
 Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluciones tecnológicas eficientes y creativas.
 
-🤖 Actualmente enfocado en:
+🎯 Actualmente enfocado en:
 
                            - Finalizar la Tecnicatura Universitaria en Tecnologías de la Información.
                            - Potenciar mis habilidades como Full Stack Developer.
 
-🛠 Tecnologías que utilizo:
+🧰 Tecnologías que utilizo:
 
-   👨‍💻 Frontend:
+   🎨 Frontend:
    
                - Angular
                - Angular Material
@@ -25,7 +25,7 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
                - CSS-in-JS (CSS Modules / Styled Components / Less)
                - Responsive Web Design (Media Queries, Flexbox, CSS Grid)
 
-   👨‍💻 Backend:
+   🔧 Backend:
    
                - Java
                - Spring Boot
@@ -35,7 +35,7 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
                - Express.js
                - Sequelize.js
 
-   👨‍💻 Base de Datos:
+   🗃️ Base de Datos:
    
                     - PostgreSQL
                     - MySQL
@@ -54,9 +54,8 @@ Disfruto enfrentar desafíos y aportar valor a equipos dinámicos mediante soluc
 
 📫 Puedes contactarme a través de:
 
-                        📨 juanvzubiri77@gmail.com        
-                        
-                        🔗 https://linkedin.com/in/juan-zubiri/
+                        📨 Correo: juanvzubiri77@gmail.com      
+                        🔗 LinkedIn: [linkedin.com/in/juan-zubiri](https://linkedin.com/in/juan-zubiri)
                         
 🔎 Búsqueda:
 
